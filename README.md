@@ -46,5 +46,14 @@ Lab 4 focuses on the Fourier series representation of continuous-time signals, t
   - Observing effects of operations in time on Fourier series coefficients
   - Implementing and analyzing a second-order physical system
 
+## Lab 5: Fourier Transmission and Understanding the Principles of Radar
 
+Lab 5 focuses on the Fourier transmission of sinusoidal signals and the principles of distance and velocity estimation using RADAR principles.
+
+- **Topics Covered:**
+  - Transfer Functions of LTI systems.
+  - Fourier Transform, and its implementation in MATLAB.
+  - Distance estimation from transmission points.
+  - Velocity estimation from transmission points.
+  - Phase Difference and Doppler Principle.
 
